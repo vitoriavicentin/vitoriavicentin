@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitoria Vicentin</h1>
-<h3 align="center">Front-End / Systems Analyst / Manager</h3>
+<h3 align="center">Full Stack / Systems Analyst / Manager</h3>
 
 - 🔭 I’m currently working on H2W Systems
 
