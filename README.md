@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vitoria Vicentin</h1>
 <h3 align="center">Full Stack / Systems Analyst / Manager</h3>
 
-- 🔭 I’m currently working on H2W Systems
-
 - 🌱 I’m currently learning **Java, Javascript**
 
 - 📫 How to reach me **vitoriavicentin@hotmail.com**
