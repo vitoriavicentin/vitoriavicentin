@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoriavicentin&show_icons=true&locale=en&layout=compact" alt="vitoriavicentin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitoriavicentin&show_icons=true&locale=en" alt="vitoriavicentin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriavicentin&" alt="vitoriavicentin" /></p>
