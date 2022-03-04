@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%;height:50%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Vitoria Vicentin </div>  
   
@@ -89,28 +86,3 @@
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitoriavicentin&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 30%" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriavicentin&hide_border=true&layout=compact" align="center" style="width: 30%" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=vickdarkcan&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
