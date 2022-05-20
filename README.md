@@ -4,7 +4,7 @@
 
 ## 🚀 About me
 
-I'm a Systems Analyst, passionate about programming, I'm always learning new things, renewing and sharing my knowledge.
+I'm a development, passionate about programming, I'm always learning new things, renewing and sharing my knowledge.
 
 🧠 I am learning Java and Oracle
 
