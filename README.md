@@ -49,14 +49,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-![snake animation](https://github.com/vitoriavicentin/vitoriavicentin/blob/output/github-contribution-grid-snake2.svg)
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/vickdarkcan">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=vickdarkcan" alt="Spotify recently played"  />
