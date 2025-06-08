@@ -1,88 +1,67 @@
-<h2 align="left">Hi 👋! My name is Vitoria and I'm a developer, from São Paulo/Brazil</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoriavicentin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=vitoriavicentin&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl3cWVyMHU4MjZsaGdybXZkZjQ1NjhiaXJwd3AyaWM2bTlkaTk4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Abstract Data Processing / Tech Animation" width="350"/>
+  <h1>Greetings! I'm Vitoria Vicentin 👋</h1>
+  <p>
+    A results-driven <strong>Full-Stack Architect & Senior Developer</strong> with <strong>5+ years of extensive experience</strong>,
+    specializing in designing and building resilient, scalable, and secure applications using <strong>Node.js</strong> and <strong>React.js</strong>.
+    As a Veteran-level <strong>Security Champion</strong>, I am passionate about embedding security best practices
+    across the SDLC, driving digital transformation through high-impact, business-centric solutions.
+  </p>
 </div>
 
-###
+---
 
-<img align="right" height="200" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
+### 🚀 Core Expertise & Technologies
 
-###
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![CI/CD](https://img.shields.io/badge/-CI%2FCD-orange?style=flat-square&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
+[![Application Security](https://img.shields.io/badge/-App_Security-black?style=flat-square&logo=snyk&logoColor=white)](https://snyk.io/)
+[![API Design](https://img.shields.io/badge/-API_Design-purple?style=flat-square&logo=openapi-initiative&logoColor=white)](https://www.openapis.org/)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="node logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angular logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="50" alt="composer logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="sqlserver logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="50" alt="tomcat logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs logo" />
-  <img width="12" />
-</div>
+---
 
-###
+### 🌱 Currently Exploring & Learning
 
-<div align="left">
-  <a href="https://www.instagram.com/royale_vitoria/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+* Deep dive into advanced microservices patterns and event-driven architectures.
+* Enhancing resilience and observability in distributed systems.
+* Pioneering strategies for AI/ML integration in application security.
+
+---
+
+### ✨ Featured Projects
+
+* **[Institutional Website for Building Restoration Company](https://www.williamsoncountyinvestmentscorporation.com/)**
+    * Designed and developed a complete, bug-free institutional website in just **2 days** (full UX, responsive, TypeScript, Tailwind CSS).
+    * Implemented a robust **Node.js RESTful API** for streamlined contact management and automated email sending, significantly optimizing client communication and lead capture.
+    * **High-impact project** that directly assisted the client in securing visas for their workers, showcasing direct business value.
+
+---
+
+### 📊 My GitHub Contributions
+
+[![Vitoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitoriavicentin&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriavicentin&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌐 Let's Connect!
+
+<p>
+  <a href="https://linkedin.com/in/vitoriavicentin" target="_blank" rel="noopener noreferrer" style="margin-right: 15px;">
+    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />
   </a>
-  <a href="vitoriacmvicentin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:vitoriacmvicentin@gmail.com" style="margin-right: 15px;">
+    <img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/vitoriavicentin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="[LINK_DO_SEU_CURRICULO_PDF_AQUI]" target="_blank" rel="noopener noreferrer">
+    <img alt="My Resume" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googledocs.svg" />
   </a>
-  <a href="https://www.facebook.com/vitoriacmvicentin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://wa.me/5511995624033" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
-
-<br>
-<br>
-<br>
-<br> 
-
-###
+</p>
